@@ -8,11 +8,11 @@
 # kitty真值 2d
 ![2d.png](./res/kitty2d.png)
 
-# kitty真值 2d
-![2d.png](./res/kitty2d.png)
+# kitty真值 3d
+![2d.png](./res/kitty3d.png)
 
 # 添加yolo处理后的3dbox 2d
 ![2d.png](./res/yolo2d.png)
 
-# 添加yolo处理后的3dbox 2d
-![2d.png](./res/yolo2d.png)
+# 添加yolo处理后的3dbox 3d
+![2d.png](./res/yolo3d.png)
